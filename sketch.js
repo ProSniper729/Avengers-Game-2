@@ -5,13 +5,13 @@ var thanos, spaceStone, obstacle3, obstacle4, obstacle5, obstacle6, obstacle7, o
 
 
 function preload(){
-    thanosImg = loadImage("images/thanos.png");
-    backImg = loadImage("images/backdrop.png");
-    spaceImg = loadImage("images/space.png");
-    thorImg = loadImage("images/thor.png");
-    lokiImg = loadImage("images/loki.png");
-    dieSound = loadSound("sounds/dying.mp3");
-    winImg = loadImage("images/win.png");
+    thanosImg = loadImage("thanos.png");
+    backImg = loadImage("backdrop.png");
+    spaceImg = loadImage("space.png");
+    thorImg = loadImage("thor.png");
+    lokiImg = loadImage("loki.png");
+    dieSound = loadSound("dying.mp3");
+    winImg = loadImage("win.png");
     
 
 }
